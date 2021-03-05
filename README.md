@@ -14,3 +14,9 @@
 - 🔧   Git | Postman
 
 <h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/channapujari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Channa%20Pujari-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/channapujari"><img alt="Github" src="https://img.shields.io/badge/GitHub-Channa%20Pujari-blue?style=flat&logo=github"></a>
+<a href="mailto:channa.pujari@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-channa.pujari%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
