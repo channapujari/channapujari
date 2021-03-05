@@ -9,4 +9,4 @@
 🛠 Tech Stack
 - 💻   JavaScript | ES6
 - 🌐   HTML | CSS | ReactJS |Redux
-- 🔧   Git | Postman | Styled-Component
+- 🔧   Git | Postman
