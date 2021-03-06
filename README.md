@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   JavaScript | ES6 | Bash Scripting
+- 💻   JavaScript | ES6 | Linux | Bash Scripting
 - 🌐   HTML | CSS | ReactJS | Redux 
 - 🔧   Git | Postman
 
