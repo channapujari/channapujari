@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   JavaScript | ES6
-- 🌐   HTML | CSS | ReactJS | Redux
+- 💻   JavaScript | ES6 | Bash Scripting
+- 🌐   HTML | CSS | ReactJS | Redux 
 - 🔧   Git | Postman
 
 <h3> 🤝🏻 Connect with Me </h3>
